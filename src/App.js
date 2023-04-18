@@ -16,6 +16,7 @@ function App() {
       <Layout>
         <Routes>
           <Route path='/' element={<Home />} />
+          <Route path='/BLibrary' element={<Home />} />
           <Route path='/LMS' element={<Home />} />
           <Route path='/LMS/Category' element={<CategoryPage />} />
           <Route path='/LMS/Book' element={<BookPage />} />
