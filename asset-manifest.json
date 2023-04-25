@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BLibrary/static/css/main.fed01f8a.css",
-    "main.js": "/BLibrary/static/js/main.640fc7a5.js",
+    "main.css": "/BLibrary/static/css/main.e82f4979.css",
+    "main.js": "/BLibrary/static/js/main.099351bb.js",
     "static/media/cate_bg.png": "/BLibrary/static/media/cate_bg.445dd2b75515401183e5.png",
     "static/media/mountain-bg.png": "/BLibrary/static/media/mountain-bg.72ab74ad9b33b228e4a7.png",
     "static/media/about-bg.png": "/BLibrary/static/media/about-bg.8b72cf50ed4a68546627.png",
@@ -17,11 +17,11 @@
     "static/media/book-side.jpg": "/BLibrary/static/media/book-side.1b5fab9b8c43a7576d9a.jpg",
     "static/media/form-bg-2.png": "/BLibrary/static/media/form-bg-2.98721cf0a171f281bb19.png",
     "index.html": "/BLibrary/index.html",
-    "main.fed01f8a.css.map": "/BLibrary/static/css/main.fed01f8a.css.map",
-    "main.640fc7a5.js.map": "/BLibrary/static/js/main.640fc7a5.js.map"
+    "main.e82f4979.css.map": "/BLibrary/static/css/main.e82f4979.css.map",
+    "main.099351bb.js.map": "/BLibrary/static/js/main.099351bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.fed01f8a.css",
-    "static/js/main.640fc7a5.js"
+    "static/css/main.e82f4979.css",
+    "static/js/main.099351bb.js"
   ]
 }
