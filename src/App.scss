@@ -1577,3 +1577,22 @@ a{
 }
 //END ABOUT PAGE
 
+//LIB CARD PAGE
+.libcard-page{
+  .header{
+    margin: 20px 0;
+  }
+
+  .card-list{
+    .libcard {
+      border-bottom: 1px solid black;
+      margin-bottom: 20px;
+  
+      &:hover {
+        color: blue;
+        cursor: pointer;
+      }
+    }
+  }
+}
+//END LIB CARD PAGE
